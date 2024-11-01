@@ -5,7 +5,7 @@ This repository will be used to demonstrate some common markdown functionality.
 Some Text
 
 ### This is a SubSub Heading
-Some Text
+Some Additional Text
 
 ## Lists
 
