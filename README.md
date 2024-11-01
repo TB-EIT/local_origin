@@ -33,7 +33,15 @@ Some Additional Text
 * and one more
 
 ## Text Formatting
-TODO
+* **Bold Text**
+* *Italic Text*
+* ~~Strikethrough Text~~
+
+> This is a blockquote.
+
+```
+echo "This is Markdown code block example"
+```
 
 ## Tables
 TODO
