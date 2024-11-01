@@ -51,7 +51,7 @@ echo "This is Markdown code block example"
 | Row 2     | Cell 2   | Cell 3   |
 
 ## Links
-TODO
+* [Example of a remote link](https://google.com)
 
 ## Images
 TODO
