@@ -1,2 +1,2 @@
 print("Hello World!!!")
-print([ a*a for a in range(10)])
+print([ a**2 for a in range(10)])
