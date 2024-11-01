@@ -52,6 +52,7 @@ echo "This is Markdown code block example"
 
 ## Links
 * [Example of a remote link](https://google.com)
+* [Example of a local link](./hello_world.go)
 
 ## Images
 TODO
