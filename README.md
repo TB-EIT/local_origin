@@ -49,6 +49,7 @@ echo "This is Markdown code block example"
 |-----------|----------|----------|
 | Cell 1    | Cell 2   | Cell 3   |
 | Row 2     | Cell 2   | Cell 3   |
+| Row 3     | Cell 3   | Cell 4   |
 
 ## Links
 * [Example of a remote link](https://google.com)
